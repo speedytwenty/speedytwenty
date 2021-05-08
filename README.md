@@ -34,7 +34,6 @@ compatible)
 source code._
 * Attention to detail: Quickly scan the current scope connecting all
 dots.
-<br />
 * Reliable uptime: 49+ weeks per year
 <br />_Chris has extensive scheduling capabilities and minimal service outages._
 * Chris is open-source!
