@@ -10,7 +10,7 @@ import { kickAss } from 'Chris';
 
 function chewBubbleGum(bubbleGumSupply) {
   if (bubbleGumSupply <= 0) kickAss();
-  setTimeout(100, () => chewBubbleGum(bubbleGumSupply - 1));
+  setTimeout(() => chewBubbleGum(bubbleGumSupply - 1), 100);
 }
 chewBubbleGum(0);
 ```
