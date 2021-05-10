@@ -48,11 +48,6 @@ Can Learn Anything) protocol`._
 <br />_Quickly scan the current scope connecting all dots; identify and repair
 missing, faulty, or ambiguous dots._
 * **Reliable uptime!** _49+ weeks per year_
-<br />_Chris has extensible scheduling capabilities and minimal service
-outages._
-* Chris is open source! 
-<br />_All submitted issues are carefully reviewed and considered. Pull requests
-are always welcome._
 
 ### Changelog
 
@@ -66,7 +61,7 @@ are always welcome._
 * v1.1.0 (2013-2016) - Drupal Backend Development
 * v1.0.0 (2007-2012) - Full-stack Drupal Development
 * v0.4.0 (2003-2006) - PHP + SQL Development
-* v0.3.0 (1999-2002) - Design, Static-site development, Perl scripting
+* v0.3.0 (1999-2002) - Static-site development, Perl scripting
 * v0.2.0 (1998) - Webmaster armed with [FormMail.pl](http://www.scriptarchive.com/formmail.html)
 * v0.1.0 (1994-1997) - Doom, Encarta, WordPerfect, SimCity, Netscape
 
@@ -80,8 +75,19 @@ are always welcome._
 * v5.0.0 - Advanced Solutions Architect
 * v5.1.0 - Intermediate DevOps Engineering
 
-_Subject to change based on external and internal advancements as well as
-feature requests made by users._
+### System requirements
+
+* Compatible with all versions of [Voluntaryism](https://is.gd/A0GV1f)
+* Deploy in _self-management_ or _team_ mode
+* Internal runtime optimized for cryptocurrency
+
+### Warranty
+
+While anomalies may occur, Chris is designed to respect user autonomy under
+every circumstance.
+
+Users can uninstall Chris at <u>any time</u> for <u>any</u> reason—no questions
+asked! _Albeit, our quality and assurance team deeply values your feedback._
 
 ### Used By
 
@@ -101,55 +107,3 @@ feature requests made by users._
 <a href="https://denverbroncos.com" title="Denver Broncos"><img src="img/broncos.png" alt="Denver Broncos" style="vertical-align: middle; border: 2px solid #fff" /></a>
 <a href="https://postnet.com" title="PostNet International"><img src="img/postnet.png" alt="PostNet International" style="vertical-align: middle; border: 2px solid #fff" /></a>
 <a href="https://knectar.com" title="Knectar Design"><img src="img/knectar.png" alt="Knectar Design" style="vertical-align: middle; border: 2px solid #fff" /></a>
-
----
-
-### Benchmarks
-
-With nearly a decade of reliable data to analyze, our team's benchmark
-calculations have produced the following indications:
-
-**Sub-optimal performance** - Users will likely experience less than desired
-output from Chris according to the following expression:
-
-```
-// Sub-optimal performance
-while(testCoverage < 80 && !Chris.isWritingTests());
-```
-
-**Optimal performance** - Our data analysis also suggests that Chris's finest
-output directly correlates with the following expression:
-
-```
-// Optimal performance
-while (testCoverage >= 100 || Chris.isWritingTests());
-```
-
-### System requirements
-
-* Compatible with all versions of [Voluntaryism](https://is.gd/A0GV1f)
-* Deploy in _self-management_ or _team_ mode
-* Seamlessly integrates with other ass kickers, bubble gum chewers, and
-wannabes
-* Internal runtime optimized for cryptocurrency
-
-Note: Operations may dramatically spike before swiftly degrading when running
-in team mode with the `halfAssed` or `justGoodEnough` options set to `strict`.
-
-### Warranty
-
-While anomalies may occur, Chris is designed to respect user autonomy under
-every circumstance.
-
-Users can uninstall Chris at <u>any time</u> for <u>any</u> reason—no questions
-asked! _Albeit, our quality and assurance team deeply values your feedback._
-
-**Disclaimer:** Chris can be vulnerable to infection from the infamous Scope
-Creep malware. This has only been known to occur when the `kickAss()` method
-attempts to equalize the calculated value of ass-kicking with the cost of
-execution. _It remains undetermined whether this is a feature or a bug._
-
-### License
-
-Chris is currently licensed via the B2P (Bills to Pay) 20.21 license. Future
-versions will be licensed via the IT2D (Important Things to Do) license.
