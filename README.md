@@ -14,7 +14,6 @@ function chewBubbleGum(bubbleGumSupply) {
 }
 chewBubbleGum(0);
 ```
-
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=speedytwenty)
 
 ### Features
@@ -49,7 +48,8 @@ Can Learn Anything) protocol`._
 <br />_Quickly scan the current scope connecting all dots; identify and repair
 missing, faulty, or ambiguous dots._
 * **Reliable uptime!** _49+ weeks per year_
-<br />_Chris has extensive scheduling capabilities and minimal service outages._
+<br />_Chris has extensible scheduling capabilities and minimal service
+outages._
 * Chris is open source! 
 <br />_All submitted issues are carefully reviewed and considered. Pull requests
 are always welcome._
@@ -85,22 +85,22 @@ feature requests made by users._
 
 ### Used By
 
-<a href="https://srg.com" title="Sterling Rice Group"><img src="img/srg.png" alt="Sterling Rice Group" style="vertical-align: middle;" /></a>
-<a href="https://cando.com" title="CanDo"><img src="img/cando.png" alt="CanDo" style="vertical-align: middle;" /></a>
-<a href="https://arn.com" title="Arnold Worldwide"><img src="img/arnold.svg" alt="Arnold Worldwide" style="vertical-align: middle;" /></a>
-<a href="https://isc.org" title="Internet Systems Consortium"><img src="img/isc.png" alt="Internet Systems Consortium" style="vertical-align: middle;" /></a>
-<a href="https://fantasypoints.com" title="FantasyPoint"><img src="img/fpts.png" alt="FantasyPoints" style="vertical-align: middle;" /></a>
-<a href="https://spiredigital.com" title="SpireDigital"><img src="img/spire.png" alt="Spire Digital" style="vertical-align: middle;" /></a>
-<a href="https://almonds.com" title="Almond Board of California"><img src="img/almonds.svg" alt="Almond Board of California" style="vertical-align: middle;" /></a>
-<a href="https://php.com" title="Parents Helping Parents"><img src="img/php.png" alt="Parents Helping Parents" style="vertical-align: middle;" /></a>
-<a href="https://bestbuy.com" title="BestBuy"><img src="img/bestbuy.png" alt="BestBuy" style="vertical-align: middle;" /></a>
-<a href="https://akavit.com" title="Akavit Group"><img src="img/akavit.jpg" alt="Akavit Group" style="vertical-align: middle;" /></a>
-<a href="https://newmedia.com" title="NewMedia!"><img src="img/newmedia.png" alt="NewMedia!" style="vertical-align: middle;" /></a>
-<a href="https://webstandard.com" title="WebStandard"><img src="img/webstandard.png" alt="WebStandard" style="vertical-align: middle;" /></a>
-<a href="https://kremsa.com" title="Kremsa Design"><img src="img/kremsa.png" alt="Kremsa Design" style="vertical-align: middle;" /></a>
-<a href="https://denverbroncos.com" title="Denver Broncos"><img src="img/broncos.png" alt="Denver Broncos" style="vertical-align: middle; border: 4px solid #fff" /></a>
-<a href="https://postnet.com" title="PostNet International"><img src="img/postnet.png" alt="PostNet International" style="vertical-align: middle;" /></a>
-<a href="https://knectar.com" title="Knectar Design"><img src="img/knectar.png" alt="Knectar Design" style="vertical-align: middle;" /></a>
+<a href="https://srg.com" title="Sterling Rice Group"><img src="img/srg.png" alt="Sterling Rice Group" style="vertical-align: middle; border: 2px solid #fff" /></a>
+<a href="https://cando.com" title="CanDo"><img src="img/cando.png" alt="CanDo" style="vertical-align: middle; border: 2px solid #fff" /></a>
+<a href="https://arn.com" title="Arnold Worldwide"><img src="img/arnold.svg" alt="Arnold Worldwide" style="vertical-align: middle; border: 2px solid #fff" /></a>
+<a href="https://isc.org" title="Internet Systems Consortium"><img src="img/isc.png" alt="Internet Systems Consortium" style="vertical-align: middle; border: 2px solid #fff" /></a>
+<a href="https://fantasypoints.com" title="FantasyPoint"><img src="img/fpts.png" alt="FantasyPoints" style="vertical-align: middle; border: 2px solid #fff" /></a>
+<a href="https://spiredigital.com" title="SpireDigital"><img src="img/spire.png" alt="Spire Digital" style="vertical-align: middle; border: 2px solid #fff" /></a>
+<a href="https://almonds.com" title="Almond Board of California"><img src="img/almonds.svg" alt="Almond Board of California" style="vertical-align: middle; border: 2px solid #fff" /></a>
+<a href="https://php.com" title="Parents Helping Parents"><img src="img/php.png" alt="Parents Helping Parents" style="vertical-align: middle; border: 2px solid #fff" /></a>
+<a href="https://bestbuy.com" title="BestBuy"><img src="img/bestbuy.png" alt="BestBuy" style="vertical-align: middle; border: 2px solid #fff" /></a>
+<a href="https://akavit.com" title="Akavit Group"><img src="img/akavit.jpg" alt="Akavit Group" style="vertical-align: middle; border: 2px solid #fff" /></a>
+<a href="https://newmedia.com" title="NewMedia!"><img src="img/newmedia.png" alt="NewMedia!" style="vertical-align: middle; border: 2px solid #fff" /></a>
+<a href="https://webstandard.com" title="WebStandard"><img src="img/webstandard.png" alt="WebStandard" style="vertical-align: middle; border: 2px solid #fff" /></a>
+<a href="https://kremsa.com" title="Kremsa Design"><img src="img/kremsa.png" alt="Kremsa Design" style="vertical-align: middle; border: 2px solid #fff" /></a>
+<a href="https://denverbroncos.com" title="Denver Broncos"><img src="img/broncos.png" alt="Denver Broncos" style="vertical-align: middle; border: 2px solid #fff" /></a>
+<a href="https://postnet.com" title="PostNet International"><img src="img/postnet.png" alt="PostNet International" style="vertical-align: middle; border: 2px solid #fff" /></a>
+<a href="https://knectar.com" title="Knectar Design"><img src="img/knectar.png" alt="Knectar Design" style="vertical-align: middle; border: 2px solid #fff" /></a>
 
 ---
 
@@ -117,7 +117,7 @@ output from Chris according to the following expression:
 while(testCoverage < 80 && !Chris.isWritingTests());
 ```
 
-**Optimal performance** - Our data analysis also indicates that Chris's finest
+**Optimal performance** - Our data analysis also suggests that Chris's finest
 output directly correlates with the following expression:
 
 ```
@@ -127,16 +127,14 @@ while (testCoverage >= 100 || Chris.isWritingTests());
 
 ### System requirements
 
-Chris is _compatible_ with all versions of [Voluntaryism](https://is.gd/A0GV1f)
-and _incompatible_ with all versions of coercion.
-
-Chris can operate in either self-management mode or in team mode. Seamlessly
-integrates with other ass-kickers, bubble-gum chewers, and wannabes.
+* Compatible with all versions of [Voluntaryism](https://is.gd/A0GV1f)
+* Deploy in _self-management_ or _team_ mode
+* Seamlessly integrates with other ass kickers, bubble gum chewers, and
+wannabes
+* Internal runtime optimized for cryptocurrency
 
 Note: Operations may dramatically spike before swiftly degrading when running
 in team mode with the `halfAssed` or `justGoodEnough` options set to `strict`.
-
-_Chris's internal runtime is optimized for cryptocurrency._
 
 ### Warranty
 
