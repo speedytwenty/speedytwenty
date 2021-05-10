@@ -52,15 +52,15 @@ missing, faulty, or ambiguous dots._
 ### Changelog
 
 * v3.1.0 (2021-EoL) - Obsessive [linting](https://stackoverflow.com/q/8503559/293279) added to kernel
-* **v3.0.0 (2020-Present) - Full-stack Node.js Development**
+* **v3.0.0 (2020-Present) - Full-stack Node.js development**
 * v2.4.0 (2020) - Added Next.js and GraphQL to tool library
 * v2.3.0 (2019) - React.js added to tool library
-* v2.2.0 (2017) - Node.js Backend Development
+* v2.2.0 (2017) - Node.js Backend development
 * v2.1.0 (2015) - MongoDB added to tool library
 * v2.0.0 (2014-Present) - Test-supported development
-* v1.1.0 (2013-2016) - Drupal Backend Development
-* v1.0.0 (2007-2012) - Full-stack Drupal Development
-* v0.4.0 (2003-2006) - PHP + SQL Development
+* v1.1.0 (2013-2016) - Drupal Backend development
+* v1.0.0 (2007-2012) - Full-stack Drupal development
+* v0.4.0 (2003-2006) - PHP + SQL development
 * v0.3.0 (1999-2002) - Static-site development, Perl scripting
 * v0.2.0 (1998) - Webmaster armed with [FormMail.pl](http://www.scriptarchive.com/formmail.html)
 * v0.1.0 (1994-1997) - Doom, Encarta, WordPerfect, SimCity, Netscape
