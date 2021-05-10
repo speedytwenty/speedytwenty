@@ -14,6 +14,7 @@ function chewBubbleGum(bubbleGumSupply) {
 }
 chewBubbleGum(0);
 ```
+
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=speedytwenty)
 
 ### Features
@@ -30,23 +31,17 @@ chewBubbleGum(0);
 | Cloud architecture | ✔ | - | - |
 | Drupal development | ✔ | ✔ | Deprecated |
 
-_Only Chris's most commonly used features are listed. Please see the
-[roadmap](#roadmap) for planned feature additions._
-
 ### Why Chris?
 
-* Chris runs on the **Human 1.4 kernel** (and is both forward and backward
-compatible)
-<br />_Curiosity, empathy, ethics, and love are immutably embedded._
 * **Infinite potential** via dynamic machine-like learning
-<br />_Chris's firmware is programmed by Ego, Ltd. with the `ICLA (I
-Can Learn Anything) protocol`._
+<br />_Chris's firmware is programmed by Ego, Ltd. with the ICLA (I
+Can Learn Anything) protocol._
 * **Exponential passion** when correctly applying the right tool to the
 <u>right</u> job
 <br />_Overclock performance by instantiating Chris with a JobWorthDoing._
-* **Attention to detail, quality, and precision**
-<br />_Quickly scan the current scope connecting all dots; identify and repair
-missing, faulty, or ambiguous dots._
+* Chris runs on the **Human 1.0 kernel** (and is both forward and backward
+compatible)
+<br />_Curiosity, empathy, ethics, and love are immutably embedded._
 * **Reliable uptime!** _49+ weeks per year_
 
 ### Changelog
@@ -87,7 +82,7 @@ While anomalies may occur, Chris is designed to respect user autonomy under
 every circumstance.
 
 Users can uninstall Chris at <u>any time</u> for <u>any</u> reason—no questions
-asked! _Albeit, our quality and assurance team deeply values your feedback._
+asked! _Albeit, our quality and assurance team deeply values user feedback._
 
 ### Used By
 
