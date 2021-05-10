@@ -17,6 +17,19 @@ chewBubbleGum(0);
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=speedytwenty)
 
+### Why Chris?
+
+* **Infinite potential** via dynamic machine-like learning
+<br />_Chris's firmware is programmed by Ego, Ltd. with the ICLA (I
+Can Learn Anything) protocol._
+* **Exponential passion** when correctly applying the right tool to the
+<u>right</u> job
+<br />_Overclock performance by instantiating Chris with a JobWorthDoing._
+* Chris runs on the **Human 1.0 kernel** (and is both forward and backward
+compatible)
+<br />_Curiosity, empathy, ethics, and love are immutably embedded._
+* **Reliable uptime!** _49+ weeks per year_
+
 ### Features
 
 |                               | Basic | Pro | Enterprise |
@@ -30,19 +43,6 @@ chewBubbleGum(0);
 | DevOps engineering | ✔ | - | - |
 | Cloud architecture | ✔ | - | - |
 | Drupal development | ✔ | ✔ | Deprecated |
-
-### Why Chris?
-
-* **Infinite potential** via dynamic machine-like learning
-<br />_Chris's firmware is programmed by Ego, Ltd. with the ICLA (I
-Can Learn Anything) protocol._
-* **Exponential passion** when correctly applying the right tool to the
-<u>right</u> job
-<br />_Overclock performance by instantiating Chris with a JobWorthDoing._
-* Chris runs on the **Human 1.0 kernel** (and is both forward and backward
-compatible)
-<br />_Curiosity, empathy, ethics, and love are immutably embedded._
-* **Reliable uptime!** _49+ weeks per year_
 
 ### Changelog
 
