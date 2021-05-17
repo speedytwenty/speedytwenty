@@ -15,7 +15,7 @@ function chewBubbleGum(bubbleGumSupply) {
 chewBubbleGum(0);
 ```
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=speedytwenty)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=speedytwenty&theme=graywhite)
 
 ### Why Chris?
 
