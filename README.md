@@ -1,22 +1,5 @@
 ## Chris version 3.1.0
 
-Self-contained operating system that specializes in kicking ass and chewing
-bubble gum.
-
-### Usage
-
-```js
-import { kickAss } from 'Chris';
-
-function chewBubbleGum(bubbleGumSupply) {
-  if (bubbleGumSupply <= 0) kickAss();
-  setTimeout(() => chewBubbleGum(bubbleGumSupply - 1), 100);
-}
-chewBubbleGum(0);
-```
-
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=speedytwenty)
-
 ### Why Chris?
 
 * **Infinite potential** via dynamic machine-like learning
