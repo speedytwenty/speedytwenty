@@ -1,5 +1,7 @@
 ## Chris version 3.1.0
 
+Full-stack software crafting, collaboration, and consulting.
+
 ### Why Chris?
 
 * **Infinite potential** via dynamic machine-like learning
@@ -21,37 +23,32 @@ compatible)
 | MongoDB | ✔ | ✔ | ✔ |
 | API development & integrations | ✔ | ✔ | ✔ |
 | Data migration, aggregation, analysis | ✔ | ✔ | ✔ |
-| Test-driven development | ✔ | ✔ | Release Candidate |
+| Test-driven development (TDD) | ✔ | ✔ | Release Candidate |
 | React.js, Next.js, GraphQL | ✔ | ✔ | Beta |
 | DevOps engineering | ✔ | - | - |
-| Cloud architecture | ✔ | - | - |
 | Drupal development | ✔ | ✔ | Deprecated |
 
 ### Changelog
 
-* v3.1.0 (2021-EoL) - Obsessive [linting](https://stackoverflow.com/q/8503559/293279) added to kernel
-* **v3.0.0 (2020-Present) - Full-stack Node.js development**
-* v2.4.0 (2020) - Added Next.js and GraphQL to tool library
-* v2.3.0 (2019) - React.js added to tool library
-* v2.2.0 (2017) - Node.js Backend development
-* v2.1.0 (2015) - MongoDB added to tool library
-* v2.0.0 (2014-Present) - Test-supported development
-* v1.1.0 (2013-2016) - Drupal Backend development
-* v1.0.0 (2007-2012) - Full-stack Drupal development
-* v0.4.0 (2003-2006) - PHP + SQL development
-* v0.3.0 (1999-2002) - Static-site development, Perl scripting
-* v0.2.0 (1998) - Webmaster armed with [FormMail.pl](http://www.scriptarchive.com/formmail.html)
-* v0.1.0 (1994-1997) - Doom, Encarta, WordPerfect, SimCity, Netscape
+
+* `v3.1.0` (2021-EoL) - Obsessive [linting](https://stackoverflow.com/q/8503559/293279) added to kernel
+* **`v3.0.0` (2020-Present) - Full-stack Node.js development**
+* `v2.4.0` (2020) - Added Next.js and GraphQL to tool library
+* `v2.3.0` (2019) - React.js added to tool library
+* `v2.2.0` (2017) - Basic Node.js Backend development
+* `v2.1.0` (2015) - MongoDB added to tool library
+* `v2.0.0` (2014-Present) - Test-supported development
+* `v1.1.0` (2013-2016) - Drupal Backend development
+* `v1.0.0` (2007-2012) - Full-stack Drupal development
+* `v0.4.0` (2003-2006) - PHP + SQL development
+* `v0.3.0` (1999-2002) - Static-site development, Perl scripting
+* `v0.2.0` (1998) - Webmaster armed with [FormMail.pl](http://www.scriptarchive.com/formmail.html)
+* `v0.1.0` (1994-1997) - Doom, Encarta, WordPerfect, SimCity, Netscape
 
 ### Roadmap
 
-* v3.2.0 - Add TypeScript to tool library
-* v3.3.0 - Add electron to tool library
-* v3.4.0 - Add Plant/UML to tool library
-* v3.5.0 - GitHub Ninja
-* v4.0.0 - Test-driven development
-* v5.0.0 - Advanced Solutions Architect
-* v5.1.0 - Intermediate DevOps Engineering
+* `v4` Pro TypeScript
+* `v5` Enterprise TDD
 
 ### System requirements
 
