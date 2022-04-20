@@ -1,4 +1,4 @@
-## Chris version 3.1.0
+## Chris version 3.1.1
 
 Full-stack software crafting, collaboration, and consulting.
 
@@ -31,6 +31,7 @@ compatible)
 ### Changelog
 
 
+* `v3.1.1` Enhanced [TDD](https://github.com/cli-table/cli-table3/commit/ed4afb7417fec78c1548dcf422d14b7a0b452f60) & [CI](https://github.com/cli-table/cli-table3/pull/292/checks)
 * `v3.1.0` (2021-EoL) - Obsessive [linting](https://stackoverflow.com/q/8503559/293279) added to kernel
 * **`v3.0.0` (2020-Present) - Full-stack Node.js development**
 * `v2.4.0` (2020) - Added Next.js and GraphQL to tool library
